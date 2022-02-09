@@ -4,6 +4,11 @@ Create a Media Query
   p {
     font-size: 20px;
   }
+  @media (max-width: 800px) {
+  p {
+    font-size: 10px;
+  }
+    }
 /* Only change code below this line */
 
   /* Only change code above this line */
